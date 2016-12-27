@@ -12,7 +12,7 @@ m_006.mp3: Mermaid festa vol.1<br>
 m_007.mp3: もぎゅっと“love”で接近中！<br>
 m_008.mp3: 愛してるばんざーい！<br>
 m_009.mp3: Wonderful Rush<br>
-m_010.mp3: Oh,Love＆Peace!<br>
+m_010.mp3: Oh,Love&Peace!<br>
 
 Claim
 -
