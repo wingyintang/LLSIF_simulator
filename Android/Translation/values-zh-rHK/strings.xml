@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LLSIF</string>
+    <string name="title_activity_open_file_dialog">OpenFileDialog</string>
+    <string name="Button1_text">開啟檔案</string>
+    <string name="Button2_text">查卡器譜面</string>
+    <string name="Label1_text">模擬器開發者：TWY</string>
+    <string name="Label2_text">語言設定：</string>
+    <string name="LinkLabel1_text">翻譯建議</string>
+    <string name="Autoplay_text">自動播放</string>
+    <string name="Allmiss_text">全部Miss</string>
+    <string name="judgement_offset">判定偏差：</string>
+    <string name="graphics_offset">圖像偏差：</string>
+    <string name="Non_MIDI_offset">非MIDI檔偏差：</string>
+    <string name="speed">速度：</string>
+    <string name="action_settings">設定</string>
+    <string name="suggestion"><a href="https://goo.gl/forms/aNxHNCtdgSskFfFM2"><u>翻譯建議</u></a></string>
+</resources>

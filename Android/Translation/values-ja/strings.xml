@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LLSIF</string>
+
+    <string name="action_settings">設定</string>
+    <string name="RichTextBox1_Text"></string>
+    <string name="title_activity_open_file_dialog">OpenFileDialog</string>
+    <string name="suggestion"><a href="https://goo.gl/forms/aNxHNCtdgSskFfFM2"><u>語訳提案</u></a></string>
+    <string name="Button1_text">ファイルを選択</string>
+    <string name="Button2_text">部員データベースから</string>
+    <string name="Label2_text">言語を選択：</string>
+    <string name="LinkLabel1_text">語訳提案</string>
+    <string name="Label1_text">TWYのスクフェスシミュレーター</string>
+    <string name="Autoplay_text">自動再生</string>
+    <string name="Allmiss_text">全部Missになる</string>
+    <string name="judgement_offset">"判定オフセット：</string>
+    <string name="graphics_offset">画像オフセット：</string>
+    <string name="Non_MIDI_offset">非MIDIオフセット：</string>
+    <string name="speed">速度：</string>
+</resources>

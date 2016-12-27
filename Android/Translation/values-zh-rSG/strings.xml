@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LLSIF</string>
+
+    <string name="action_settings">设置</string>
+    <string name="RichTextBox1_Text"></string>
+    <string name="title_activity_open_file_dialog">OpenFileDialog</string>
+    <string name="suggestion"><a href="https://goo.gl/forms/aNxHNCtdgSskFfFM2"><u>翻译建议</u></a></string>
+    <string name="Button1_text">选择档案</string>
+    <string name="Button2_text">查卡器谱面</string>
+    <string name="Label1_text">模拟器开发者：TWY</string>
+    <string name="Label2_text">语言设定：</string>
+    <string name="LinkLabel1_text">翻译建议</string>
+    <string name="Autoplay_text">自动播放</string>
+    <string name="Allmiss_text">全部Miss</string>
+    <string name="judgement_offset">判定偏差：</string>
+    <string name="graphics_offset">图像偏差：</string>
+    <string name="Non_MIDI_offset">非MIDI档偏差：</string>
+    <string name="speed">速度：</string>
+</resources>
