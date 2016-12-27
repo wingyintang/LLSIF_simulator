@@ -37,7 +37,7 @@ https://goo.gl/forms/aNxHNCtdgSskFfFM2<br>
 To use this application, .NET Framework is requuired.
 
 Related Links:
-----------------------------------------------------;''-
+-----------------------------------------------------
 Card Explorer: http://card.llsif.moe/<br>
 osu!: http://osu.ppy.sh/
 
