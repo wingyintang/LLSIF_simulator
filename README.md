@@ -18,18 +18,18 @@ How To Use:
 
 Update Log:
 -----------------------------------------------------
-v2.1.0.0<br>
+#v2.1.0.0<br>
 - Can fetch beatmap data from the card explorer.<br>
 -- That means you can play the most updated beatmaps!<br>
 <br>
-v2.0.0.1<br>
+#v2.0.0.1<br>
 -Language Available:<br>
 -- Traditional Chinese<br>
 -- Simplified Chinese<br>
 -- English<br>
 -- Japanese<br>
 <br>
-v2.0.0.0<br>
+#2.0.0.0<br>
 - Basic Feature Included:<br>
 -- Read *.sif files (Not provided now)<br>
 -- Read *.osu files (Basic/Taiko/Mania)<br>
