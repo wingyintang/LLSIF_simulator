@@ -29,7 +29,7 @@ Update Log:
 -- English<br>
 -- Japanese<br>
 <br>
-#2.0.0.0<br>
+#v2.0.0.0<br>
 - Basic Feature Included:<br>
 -- Read *.sif files (Not provided now)<br>
 -- Read *.osu files (Basic/Taiko/Mania)<br>
