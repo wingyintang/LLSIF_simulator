@@ -2,7 +2,7 @@
 A simulator for Lovelive! school idol festival and a convertor for osu! and midi, or some other rhythm games.<br>
 Program related readme.txt:
 -----------------------------------------------------
-LLSIF Simulator 2.1.0.0 (User version Beta) by TWY
+LLSIF Simulator 2.1.0.1 (User version Beta) by TWY
 -----------------------------------------------------
 How To Use:
 -----------------------------------------------------
@@ -18,6 +18,9 @@ How To Use:
 
 Update Log:
 -----------------------------------------------------
+-v2.1.0.1<br>
+-- Card Explorer -> https://c.dash.moe/ only<br>
+<br>
 -v2.1.0.0<br>
 -- Can fetch beatmap data from the card explorer.<br>
 --- That means you can play the most updated beatmaps!<br>
@@ -44,10 +47,10 @@ Please keep Interop.WMPLib.dll and AxInterop.WMPLib.dll in the same folder as th
 
 Related Links:
 -----------------------------------------------------
-Card Explorer: http://card.llsif.moe/<br>
+Card Explorer: https://c.dash.moe/<br>
 osu!: http://osu.ppy.sh/
 
-Executable Download Links (exe v2.1.0.0):
+Executable Download Links (exe v2.1.0.1):
 -----------------------------------------------------
 Baidu yun: https://pan.baidu.com/s/1dEVpDfV<br>
 Dropbox: https://www.dropbox.com/sh/78r5hdki8apdfgg/AACqatEhWtTNeghWTlDAgQrJa?dl=0<br>
@@ -63,4 +66,4 @@ This is originally for personal uses, therefore nobody is allowed to get profit 
 
 End
 -----------------------------------------------------
-Last Updated on 30/12/2016 13:32 UTC+8
+Last Updated on 30/12/2016 17:14 UTC+8
