@@ -40,6 +40,7 @@ Others:
 Feel free to give suggestion to the translation.<br>
 https://goo.gl/forms/aNxHNCtdgSskFfFM2<br>
 To use this application, .NET Framework is requuired.
+Please keep Interop.WMPLib.dll and AxInterop.WMPLib.dll in the same folder as the exe or else it cannot be exexcuted.
 
 Related Links:
 -----------------------------------------------------
