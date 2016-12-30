@@ -15,5 +15,5 @@ There are two javascript files and two css stylesheets:<br>
 https://m.tianyi9.com/(The following)<br>
 styles/vender.213982bd.css<br>
 styles/style.6e407618.css<br>
-scripts/scripts.217cb370.js (Uploaded here)<br>
-scripts/vendor.78ff4668.js (Uploaded here)<br>
+scripts/scripts.217cb370.js (Beautified version uploaded here)<br>
+scripts/vendor.78ff4668.js (Beautified version uploaded here)<br>
