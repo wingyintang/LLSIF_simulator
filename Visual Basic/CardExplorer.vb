@@ -1,6 +1,10 @@
 ﻿Public Class CardExplorer
     Dim language As Integer = -1
     Property SelectedSong As Song
+    'Other Server (Not available because of high server load):
+    'http://card.llsif.moe
+    'https://c.1994.io
+    'http://card.llsupport.cn
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         TreeView1.Nodes.Clear()
         tryhost(ComboBox1.SelectedItem)
