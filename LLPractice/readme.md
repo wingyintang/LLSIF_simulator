@@ -38,7 +38,7 @@ You'll get a content like this:<br>
 [20]: The number of post of the upload_user: (post_count)<br>
 [22]: The artist of the song: (artist) (in unicode)<br>
 [23]: The json file: https://m.tianyi9.com/upload/(map_path)<br>
-[26]: (live_id) (Needless to say)
+[26]: (live_id) (Needless to say)<br>
 [27]: If the fetch is successful. (succeed) (boolean)<br>
 
 The site:
