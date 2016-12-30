@@ -57,7 +57,8 @@ Something Else:
 The process of fetching data from the official database can be found in klab's github: https://github.com/KLab/PlaygroundOSS<br>
 Here the processed beatmaps from card explorer is used.<br>
 .sif is not the original files.<br>
+This is originally for personal uses, therefore nobody is allowed to get profit from the code.
 
 End
 -----------------------------------------------------
-Last Updated on 30/12/2016 12:54 UTC+8
+Last Updated on 30/12/2016 13:32 UTC+8
