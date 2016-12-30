@@ -2,7 +2,7 @@
 
 Claim:
 -
-I do not own the file build.js.<br>
+I do not own the file build.js, nor other files.<br>
 I also do not own that website.
 
 Detail:
