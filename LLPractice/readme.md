@@ -17,3 +17,7 @@ styles/vender.213982bd.css<br>
 styles/style.6e407618.css<br>
 scripts/scripts.217cb370.js (Beautified version uploaded here)<br>
 scripts/vendor.78ff4668.js (Beautified version uploaded here)<br>
+
+The site:
+-
+COPYRIGHT 2015.BUILD WITH <b>Angular</b>& <b>Bootstrap
