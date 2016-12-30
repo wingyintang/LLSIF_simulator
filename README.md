@@ -31,8 +31,8 @@ Update Log:
 <br>
 -v2.0.0.0<br>
 -- Basic Feature Included:<br>
---- Read *.sif files (Not provided now)<br>
---- Read *.osu files (Basic/Taiko/Mania)<br>
+--- Read .sif files (Not provided now)<br>
+--- Read .osu files (Basic/Taiko/Mania)<br>
 -- Language: English Only<br>
 
 Others:
@@ -52,6 +52,12 @@ Baidu yun: https://pan.baidu.com/s/1dEVpDfV<br>
 Dropbox: https://www.dropbox.com/sh/78r5hdki8apdfgg/AACqatEhWtTNeghWTlDAgQrJa?dl=0<br>
 Github: https://github.com/wingyintang/LLSIF_simulator
 
+Something Else:
+-----------------------------------------------------
+The process of fetching data from the official database can be found in klab's github: https://github.com/KLab/PlaygroundOSS<br>
+Here the processed beatmaps from card explorer is used.<br>
+.sif is not the original files.<br>
+
 End
 -----------------------------------------------------
-Last Updated on 29/12/2016 12:11 UTC+8
+Last Updated on 30/12/2016 12:54 UTC+8
