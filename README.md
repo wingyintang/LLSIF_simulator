@@ -63,7 +63,7 @@ Here the processed beatmaps from card explorer is used.<br>
 Card Explorer is a closed source developed and maintained by NijiharaTsubasa (tsubasa@dash.moe)(https://github.com/NijiharaTsubasa), who also makes a executable version of LLSIF, please do not ask the developer for the source code for fetching data.<br>
 .sif is not the original files.<br>
 This is originally for personal uses, therefore nobody is allowed to get profit from the code.
-It seems that https://c.dash.moe/live has added some "神秘谱面 (Secret (beat)maps)" for LLSIF After School Activity's Challenge difficulties, including (1. 乙女式れんあい塾, 2. PSYCHIC FIRE, 3. ススメ→トゥモロウ, 4. LOVELESS WORLD) (https://c.dash.moe/static/somesecretlive("","2","3","4").html).
+It seems that https://c.dash.moe/live has added some "神秘谱面 (Secret (beat)maps)" for LLSIF After School Activity's Challenge difficulties, including (1. 乙女式れんあい塾, 2. PSYCHIC FIRE, 3. ススメ→トゥモロウ, 4. LOVELESS WORLD) (Temporary links: https://c.dash.moe/static/somesecretlive("","2","3","4").html).
 
 End
 -----------------------------------------------------
