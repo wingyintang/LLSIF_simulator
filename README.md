@@ -56,6 +56,17 @@ Baidu yun: https://pan.baidu.com/s/1dEVpDfV<br>
 Dropbox: https://www.dropbox.com/sh/78r5hdki8apdfgg/AACqatEhWtTNeghWTlDAgQrJa?dl=0<br>
 Github: https://github.com/wingyintang/LLSIF_simulator
 
+Planning:
+-----------------------------------------------------
+1. At least 9 rows for a map (add gray button for unused circles) (Finished)<br>
+2. Finish LL Practice Conversion. <br>
+3. Finish yuyu's design beatmap. <br>
+4. Add a private server for other beatmaps. <br>
+5. Add an editor to create own beatmap. <br>
+6. Directly process raw json file in the application.<br>
+7. Provide current LLSIF events' score from different bots.<br>
+8. Provide some prediction of events by different places.
+
 Something Else:
 -----------------------------------------------------
 The process of fetching data from the official database can be found in klab's github: https://github.com/KLab/PlaygroundOSS<br>
