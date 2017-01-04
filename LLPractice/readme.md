@@ -40,6 +40,16 @@ You'll get a content like this:<br>
 [23]: The json file: https://m.tianyi9.com/upload/(map_path)<br>
 [26]: (live_id) (Needless to say)<br>
 [27]: If the fetch is successful. (succeed) (boolean)<br>
+or Return just "Not found" if the live is not found.<br>
+<b>Warning:</b>You cannot empty the field for (live_id) otherwise it will return a 502 error (Bad Gateway). Program should validate the field that it is not empty first.<br><br>
+Json file: https://m.tianyi9.com/upload/(map_path(.json))<br>
+Actually very easy to understand the code since it is not raw fson file.<br>
+1. Be note that the field "lane" is from 0 to 8<br>
+2. Be note that it is not ordered by time, but first order by lane, then by time.<br>
+3. For "longnote":false, the starttime and endtime are the same.<br>
+4. The units of starttime and endtime are ms (millisecond, 1/1000 second)<br>
+5. Whether the note is parallel has been provided.<br>
+6. Audiofile is actually referring to the live_id, not the audio filename.
 
 The site:
 -
