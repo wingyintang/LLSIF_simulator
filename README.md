@@ -58,7 +58,7 @@ Github: https://github.com/wingyintang/LLSIF_simulator
 
 Planning:
 -----------------------------------------------------
-1. At least 9 rows for a map (add gray button for unused circles) (Finished)<br>
+1. At least 9 rows for a map (add gray button for unused circles) (Finished - Not released)<br>
 2. Finish LL Practice Conversion. <br>
 3. Finish yuyu's design beatmap. <br>
 4. Add a private server for other beatmaps. <br>
@@ -66,6 +66,9 @@ Planning:
 6. Directly process raw json file in the application.<br>
 7. Provide current LLSIF events' score from different bots.<br>
 8. Provide some prediction of events by different places.
+9. Add more effect option for the beatmap. (Actually some have been made in the application, such as moving circles in https://www.youtube.com/watch?v=hFMHm_mBvt0)<br>
+10. Add video functionality for the osu! beatmap. (Not so easy to get the address)<br>
+11. Use color blend to create other color button other than red, green and light blue (Actually the grayscale base has been made).
 
 Something Else:
 -----------------------------------------------------
