@@ -4,26 +4,31 @@ A simulator for Lovelive! school idol festival and a convertor for osu! and midi
 All projects:<br>
 -----------------------------------------------------
 1. Simulator<br>
-1a. <a href="Visual%20Basic/">vb.net (requires .NET Framework)</a><br>
-1b. online<br>
-1c. android<br>
+1a. <a href="Visual%20Basic/">vb.net</a> (requires .NET Framework)<br>
+1b. HTML<br>
+1c. <a href="http://student.tanghin.edu.hk/~S121429/SIFpiano/index.html">web</a> (demo play)<br>
+1c. <a href="Android/">android</a> (Nothing released yet)<br>
 1d. iOS<br>
-1e. on Scratch (with cloud highscore)<br>
+1e. <a href="https://scratch.mit.edu/studios/2986030">Scratch</a> (with cloud highscore)<br>
+1f. ...<br>
 2. Controller<br>
 2a. Keyboard<br>
 2b. Arduino<br>
 2c. Touch screen (I don't have one)<br>
 2d. Graphics Tablet (I also don't have one)<br>
+2e. ...<br>
 3. Converter (from)<br>
 3a. osu<br>
 3b. midi<br>
 3c. processed json<br>
 3d. raw json<br>
 3e. other games or video<br>
+3f. ...<br>
 4. Converter (to)<br>
 4a. Scratch<br>
 4b. to processed json<br>
 4c. to osu!mania
+4d. ...<br>
 
 Program related readme.txt:
 -----------------------------------------------------
