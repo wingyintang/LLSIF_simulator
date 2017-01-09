@@ -4,7 +4,7 @@ A simulator for Lovelive! school idol festival and a convertor for osu! and midi
 All projects:<br>
 -----------------------------------------------------
 1. Simulator<br>
-1a. vb.net (requires .NET Framework)<br>
+1a. <a href="Visual%20Basic/">vb.net (requires .NET Framework)</a><br>
 1b. online<br>
 1c. android<br>
 1d. iOS<br>
