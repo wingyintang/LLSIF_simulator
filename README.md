@@ -3,26 +3,26 @@ A simulator for Lovelive! school idol festival and a convertor for osu! and midi
 <br>
 All projects:<br>
 -----------------------------------------------------
-1. Simulator
-1a. vb.net (requires .NET Framework)
-1b. online
-1c. android
-1d. iOS
-1e. on Scratch (with cloud highscore)
-2. Controller
-2a. Keyboard
-2b. Arduino
-2c. Touch screen (I don't have one)
-2d. Graphics Tablet (I also don't have one)
-3. Converter (from)
-3a. osu
-3b. midi
-3c. processed json
-3d. raw json
-3e. other games or video
-4. Converter (to)
-4a. Scratch
-4b. to processed json
+1. Simulator<br>
+1a. vb.net (requires .NET Framework)<br>
+1b. online<br>
+1c. android<br>
+1d. iOS<br>
+1e. on Scratch (with cloud highscore)<br>
+2. Controller<br>
+2a. Keyboard<br>
+2b. Arduino<br>
+2c. Touch screen (I don't have one)<br>
+2d. Graphics Tablet (I also don't have one)<br>
+3. Converter (from)<br>
+3a. osu<br>
+3b. midi<br>
+3c. processed json<br>
+3d. raw json<br>
+3e. other games or video<br>
+4. Converter (to)<br>
+4a. Scratch<br>
+4b. to processed json<br>
 4c. to osu!mania
 
 Program related readme.txt:
