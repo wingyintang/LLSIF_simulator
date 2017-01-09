@@ -1,5 +1,30 @@
 # LLSIF_simulator
 A simulator for Lovelive! school idol festival and a convertor for osu! and midi, or some other rhythm games.<br>
+<br>
+All projects:<br>
+-----------------------------------------------------
+1. Simulator
+1a. vb.net (requires .NET Framework)
+1b. online
+1c. android
+1d. iOS
+1e. on Scratch (with cloud highscore)
+2. Controller
+2a. Keyboard
+2b. Arduino
+2c. Touch screen (I don't have one)
+2d. Graphics Tablet (I also don't have one)
+3. Converter (from)
+3a. osu
+3b. midi
+3c. processed json
+3d. raw json
+3e. other games or video
+4. Converter (to)
+4a. Scratch
+4b. to processed json
+4c. to osu!mania
+
 Program related readme.txt:
 -----------------------------------------------------
 LLSIF Simulator 2.1.0.1 (User version Beta) by TWY
