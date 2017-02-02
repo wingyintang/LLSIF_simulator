@@ -4,10 +4,10 @@ A simulator for Lovelive! school idol festival and a convertor for osu! and midi
 v3.0.0.0 Preview:
 -----------------------------------------------------
 Added feature:<br>
--Add gray circles for beatmaps with less than 9 buttons.
--Add temporary 4 secret maps in c.dash.moe.
--Add resolution adjustment trackbar.
--Add number of button adjustment trackbar.
+-Add gray circles for beatmaps with less than 9 buttons.<br>
+-Add temporary 4 secret maps in c.dash.moe.<br>
+-Add resolution adjustment trackbar.<br>
+-Add number of button adjustment trackbar.<br>
 
 All projects:<br>
 -----------------------------------------------------
