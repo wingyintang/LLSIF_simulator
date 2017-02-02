@@ -1,6 +1,14 @@
 # LLSIF_simulator
 A simulator for Lovelive! school idol festival and a convertor for osu! and midi, or some other rhythm games.<br>
 <br>
+v3.0.0.0 Preview:
+-----------------------------------------------------
+Added feature:<br>
+-Add gray circles for beatmaps with less than 9 buttons.
+-Add temporary 4 secret maps in c.dash.moe.
+-Add resolution adjustment trackbar.
+-Add number of button adjustment trackbar.
+
 All projects:<br>
 -----------------------------------------------------
 1. Simulator<br>
@@ -99,6 +107,7 @@ Planning:
 9. Add more effect option for the beatmap. (Actually some have been made in the application, such as moving circles in https://www.youtube.com/watch?v=hFMHm_mBvt0)<br>
 10. Add video functionality for the osu! beatmap. (Not so easy to get the address)<br>
 11. Use color blend to create other color button other than red, green and light blue (Actually the grayscale base has been made).
+12. Add the old random, new random, and purely random choice.
 
 Something Else:
 -----------------------------------------------------
