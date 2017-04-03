@@ -1,6 +1,9 @@
 # LLSIF_simulator
 A simulator for Lovelive! school idol festival and a convertor for osu! and midi, or some other rhythm games.<br>
-<b><i><u>Since the USB was recently lost, the whole project will only be resumed after it is found.</b></i></u><br>
+<b><i><u>Since the USB was recently lost, the whole project will only be resumed after it is found.<br>
+And now the new repository is named sif! (https://github.com/wingyintang/sif-)
+</b></i></u><br>
+
 <br>
 v3.0.0.0 Preview:
 -----------------------------------------------------
