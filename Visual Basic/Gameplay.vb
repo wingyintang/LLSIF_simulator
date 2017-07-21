@@ -89,8 +89,8 @@ Public Class Gameplay
     Dim HP As Integer = fullHP
     Dim joffset As Integer = Offset.joffset
     Dim goffset As Integer = Offset.goffset
-    Dim Accuracy() As Integer = {160, 400, 640, 1120, 1280} 'From llsiftw
-    'Dim Accuracy() As Integer = {335.9375, 703.125, 1125, 1562.5, 7812.5} 'From LLpractice
+    Dim Accuracy() As Integer = {16, 40, 64, 112, 128} 'From llsiftw
+    'Dim Accuracy() As Integer = {33.59375, 70.3125, 112.5, 156.25, 781.25} 'From LLpractice
     'Dim Accuracy() As Integer = {50, 100, 167, 200, 467} 'From LLpractice
     Dim combomulti() As Integer = {1, 51, 51, 101, 201, 401, 601, 801}
     Dim combo() As Integer = {0, 0, 0, 0, 0}
