@@ -53,7 +53,7 @@ Json file: https://m.tianyi9.com/upload/(map_path(.json))<br>
 5. <s>Whether the note is parallel has been provided.</s><br>
 6. <s>Audiofile is actually referring to the live_id, not the audio filename.</s>
 
-<b>The JSON file has no more a TRUE JSON file but an encrypted binary file (MAYBE in order to prevent others to use their maps)</b>
+<b>The JSON file has no more been a TRUE JSON file but an encrypted binary file (MAYBE in order to prevent others to use their maps)</b>
 
 The site:
 -
